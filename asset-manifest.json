@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qrbuzz.github.io/static/css/main.7f7c2b8b.chunk.css",
-    "main.js": "/qrbuzz.github.io/static/js/main.24affd16.chunk.js",
-    "main.js.map": "/qrbuzz.github.io/static/js/main.24affd16.chunk.js.map",
+    "main.js": "/qrbuzz.github.io/static/js/main.a3460667.chunk.js",
+    "main.js.map": "/qrbuzz.github.io/static/js/main.a3460667.chunk.js.map",
     "runtime-main.js": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js",
     "runtime-main.js.map": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js.map",
     "static/css/2.e275e412.chunk.css": "/qrbuzz.github.io/static/css/2.e275e412.chunk.css",
-    "static/js/2.6f1eb2ed.chunk.js": "/qrbuzz.github.io/static/js/2.6f1eb2ed.chunk.js",
-    "static/js/2.6f1eb2ed.chunk.js.map": "/qrbuzz.github.io/static/js/2.6f1eb2ed.chunk.js.map",
+    "static/js/2.8d1c3180.chunk.js": "/qrbuzz.github.io/static/js/2.8d1c3180.chunk.js",
+    "static/js/2.8d1c3180.chunk.js.map": "/qrbuzz.github.io/static/js/2.8d1c3180.chunk.js.map",
     "index.html": "/qrbuzz.github.io/index.html",
-    "precache-manifest.8ce4afd3bb53bf117cd6f941cbb9fcde.js": "/qrbuzz.github.io/precache-manifest.8ce4afd3bb53bf117cd6f941cbb9fcde.js",
+    "precache-manifest.fe2b59162d3e50a39e9c82338ad7fa05.js": "/qrbuzz.github.io/precache-manifest.fe2b59162d3e50a39e9c82338ad7fa05.js",
     "service-worker.js": "/qrbuzz.github.io/service-worker.js",
     "static/css/2.e275e412.chunk.css.map": "/qrbuzz.github.io/static/css/2.e275e412.chunk.css.map",
     "static/css/main.7f7c2b8b.chunk.css.map": "/qrbuzz.github.io/static/css/main.7f7c2b8b.chunk.css.map",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.6e0adc8d.js",
     "static/css/2.e275e412.chunk.css",
-    "static/js/2.6f1eb2ed.chunk.js",
+    "static/js/2.8d1c3180.chunk.js",
     "static/css/main.7f7c2b8b.chunk.css",
-    "static/js/main.24affd16.chunk.js"
+    "static/js/main.a3460667.chunk.js"
   ]
 }
