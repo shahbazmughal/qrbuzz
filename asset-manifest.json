@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/qrbuzz.github.io/static/css/main.f88e8332.chunk.css",
+    "main.js": "/qrbuzz.github.io/static/js/main.9b1f1e9b.chunk.js",
+    "main.js.map": "/qrbuzz.github.io/static/js/main.9b1f1e9b.chunk.js.map",
+    "runtime-main.js": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js",
+    "runtime-main.js.map": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js.map",
+    "static/css/2.e275e412.chunk.css": "/qrbuzz.github.io/static/css/2.e275e412.chunk.css",
+    "static/js/2.8d1c3180.chunk.js": "/qrbuzz.github.io/static/js/2.8d1c3180.chunk.js",
+    "static/js/2.8d1c3180.chunk.js.map": "/qrbuzz.github.io/static/js/2.8d1c3180.chunk.js.map",
+    "index.html": "/qrbuzz.github.io/index.html",
+    "precache-manifest.26c3705b4200be78a4d3f5786cdf82a9.js": "/qrbuzz.github.io/precache-manifest.26c3705b4200be78a4d3f5786cdf82a9.js",
+    "service-worker.js": "/qrbuzz.github.io/service-worker.js",
+    "static/css/2.e275e412.chunk.css.map": "/qrbuzz.github.io/static/css/2.e275e412.chunk.css.map",
+    "static/css/main.f88e8332.chunk.css.map": "/qrbuzz.github.io/static/css/main.f88e8332.chunk.css.map",
+    "static/media/flaticon.css": "/qrbuzz.github.io/static/media/Flaticon2.eafcbac0.ttf",
+    "static/media/ki.css": "/qrbuzz.github.io/static/media/Ki.a64552c2.woff",
+    "static/media/all.min.css": "/qrbuzz.github.io/static/media/fa-solid-900.ec763292.svg",
+    "static/media/socicon.css": "/qrbuzz.github.io/static/media/socicon.a35b6574.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e0adc8d.js",
+    "static/css/2.e275e412.chunk.css",
+    "static/js/2.8d1c3180.chunk.js",
+    "static/css/main.f88e8332.chunk.css",
+    "static/js/main.9b1f1e9b.chunk.js"
+  ]
+}
