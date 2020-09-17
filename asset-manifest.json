@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/qrbuzz.github.io/static/css/main.24ffac61.chunk.css",
-    "main.js": "/qrbuzz.github.io/static/js/main.407e606d.chunk.js",
-    "main.js.map": "/qrbuzz.github.io/static/js/main.407e606d.chunk.js.map",
+    "main.css": "/qrbuzz.github.io/static/css/main.2d86fb20.chunk.css",
+    "main.js": "/qrbuzz.github.io/static/js/main.9e36023d.chunk.js",
+    "main.js.map": "/qrbuzz.github.io/static/js/main.9e36023d.chunk.js.map",
     "runtime-main.js": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js",
     "runtime-main.js.map": "/qrbuzz.github.io/static/js/runtime-main.6e0adc8d.js.map",
-    "static/css/2.acfd99a8.chunk.css": "/qrbuzz.github.io/static/css/2.acfd99a8.chunk.css",
-    "static/js/2.d1c8ff40.chunk.js": "/qrbuzz.github.io/static/js/2.d1c8ff40.chunk.js",
-    "static/js/2.d1c8ff40.chunk.js.map": "/qrbuzz.github.io/static/js/2.d1c8ff40.chunk.js.map",
+    "static/css/2.0b44948e.chunk.css": "/qrbuzz.github.io/static/css/2.0b44948e.chunk.css",
+    "static/js/2.10ded049.chunk.js": "/qrbuzz.github.io/static/js/2.10ded049.chunk.js",
+    "static/js/2.10ded049.chunk.js.map": "/qrbuzz.github.io/static/js/2.10ded049.chunk.js.map",
     "index.html": "/qrbuzz.github.io/index.html",
-    "precache-manifest.4c5a88ea1893ce3ac0b3dcf718a0744d.js": "/qrbuzz.github.io/precache-manifest.4c5a88ea1893ce3ac0b3dcf718a0744d.js",
+    "precache-manifest.1db70e4e9301efae4fbd3fb3b110e65b.js": "/qrbuzz.github.io/precache-manifest.1db70e4e9301efae4fbd3fb3b110e65b.js",
     "service-worker.js": "/qrbuzz.github.io/service-worker.js",
-    "static/css/2.acfd99a8.chunk.css.map": "/qrbuzz.github.io/static/css/2.acfd99a8.chunk.css.map",
-    "static/css/main.24ffac61.chunk.css.map": "/qrbuzz.github.io/static/css/main.24ffac61.chunk.css.map",
+    "static/css/2.0b44948e.chunk.css.map": "/qrbuzz.github.io/static/css/2.0b44948e.chunk.css.map",
+    "static/css/main.2d86fb20.chunk.css.map": "/qrbuzz.github.io/static/css/main.2d86fb20.chunk.css.map",
     "static/media/flaticon.css": "/qrbuzz.github.io/static/media/Flaticon2.eafcbac0.ttf",
     "static/media/ki.css": "/qrbuzz.github.io/static/media/Ki.a64552c2.woff",
     "static/media/all.min.css": "/qrbuzz.github.io/static/media/fa-solid-900.ec763292.svg",
@@ -20,9 +20,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6e0adc8d.js",
-    "static/css/2.acfd99a8.chunk.css",
-    "static/js/2.d1c8ff40.chunk.js",
-    "static/css/main.24ffac61.chunk.css",
-    "static/js/main.407e606d.chunk.js"
+    "static/css/2.0b44948e.chunk.css",
+    "static/js/2.10ded049.chunk.js",
+    "static/css/main.2d86fb20.chunk.css",
+    "static/js/main.9e36023d.chunk.js"
   ]
 }
