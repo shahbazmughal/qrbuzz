@@ -17,11 +17,11 @@ body {
 #splash-screen img {
   margin-left: calc(100vw - 100%);
   margin-bottom: 30px;
-  max-width: 100px;
+  max-width: 80px;
 }
 
 #splash-screen img {
-  max-width: 100px !important;
+  max-width: 80px !important;
 }
 #splash-screen.hidden {
   opacity: 0;
