@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7370c66e7c712004fe364af882bf526b",
+    "revision": "ac3ea90d7084cd7f7c4aec37878e0732",
     "url": "/qrbuzz.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrbuzz.github.io/static/css/3.67c3ea76.chunk.css"
   },
   {
-    "revision": "5c1789519a9adcd59f23",
+    "revision": "97a4201f01489f26d582",
     "url": "/qrbuzz.github.io/static/css/main.db24d43f.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/qrbuzz.github.io/static/js/6.f6f203f2.chunk.js"
   },
   {
-    "revision": "5c1789519a9adcd59f23",
-    "url": "/qrbuzz.github.io/static/js/main.5d63fd20.chunk.js"
+    "revision": "97a4201f01489f26d582",
+    "url": "/qrbuzz.github.io/static/js/main.fe14a05c.chunk.js"
   },
   {
     "revision": "62eb173696d37da82262",
